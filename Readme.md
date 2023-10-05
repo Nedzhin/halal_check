@@ -12,6 +12,6 @@ before running, you can create the virtual environment or you can run it without
 
 
 ### For the inference with your or provided images
+```python pred.py```
 
 You can provide your photo and just change the path to photo in the code
-```python pred.py```
